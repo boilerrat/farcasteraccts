@@ -96,6 +96,6 @@ No associated Ethereum addresses found.
 
 ## License
 
-This project is licensed under the Unlisense. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Unlisense. See the [LICENSE](https://github.com/boilerrat/farcasteraccts/blob/main/LICENSE) file for details.
 
 ---
