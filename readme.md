@@ -15,15 +15,14 @@ This script allows you to retrieve Farcaster user details, including their Farca
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/farcaster-user-fetcher.git
+   git clone https://github.com/boilerrat/farcasteraccts.git
    ```
 
-   Replace `yourusername` with your actual GitHub username.
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd farcaster-user-fetcher
+   cd farcasteraccts
    ```
 
 3. **Install Dependencies**
@@ -83,16 +82,6 @@ Username: username2, FID: 5678
 No associated Ethereum addresses found.
 ---
 ```
-
-## Troubleshooting
-
-- **Error: `client.lookupUserByUsername is not a function`**
-
-  Ensure that you have installed the correct version of the Neynar SDK and that your code is up to date.
-
-- **No User Found for Username**
-
-  Verify that the usernames entered are correct and exist on Farcaster.
 
 ## License
 
