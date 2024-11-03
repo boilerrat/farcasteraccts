@@ -12,6 +12,11 @@
   "dependencies": {
     "@neynar/nodejs-sdk": "^1.21.1",
     "dotenv": "^16.4.5",
+    "frog": "^0.18.0",
     "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.8.7",
+    "@types/react": "^18.3.12"
   }
 }

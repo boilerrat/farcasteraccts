@@ -1,0 +1,36 @@
+[
+  {
+    "fid": 5037,
+    "username": "earth2travis",
+    "ethAddresses": [
+      "0xbc5b552641e5d203f0a6c230aa9dc14da7450053",
+      "0xee0198e02327adb4591f14254ed8fdeeaf227b6c"
+    ]
+  },
+  {
+    "fid": 862092,
+    "username": "stonekeepers",
+    "ethAddresses": []
+  },
+  {
+    "fid": 14862,
+    "username": "samkuhlmann",
+    "ethAddresses": [
+      "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf"
+    ]
+  },
+  {
+    "fid": 14217,
+    "username": "boiler",
+    "ethAddresses": [
+      "0x67243d6c3c3bdc2f59d2f74ba1949a02973a529d"
+    ]
+  },
+  {
+    "fid": 19858,
+    "username": "borrowlucid.eth",
+    "ethAddresses": [
+      "0x87690be28b65f13394741c2c2be5a6bdb0505039"
+    ]
+  }
+]
